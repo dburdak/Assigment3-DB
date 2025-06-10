@@ -66,8 +66,10 @@ READ COMMITED.
 <img width="1179" alt="Знімок екрана 2025-06-10 о 19 47 59" src="https://github.com/user-attachments/assets/8ebac94c-8b65-43f7-a733-8edecb9e4dde" />
 
 Транзакцію2 не вдалось виконати, адже встановлений рівень ізоляції REPEATABLE READ, і наступна транзакція2 не може бути виконана, доки не завершиться попередня транзакція1.
+
 <img width="572" alt="Знімок екрана 2025-06-10 о 19 50 11" src="https://github.com/user-attachments/assets/687e10ce-0984-4dbf-9aea-6c693c2a30f4" />
 Я завершила транзакцію1 закомітивши, і тепер транзакція2 успішно виконалась
+
 <img width="549" alt="Знімок екрана 2025-06-10 о 19 54 22" src="https://github.com/user-attachments/assets/5230284d-9f2b-4cae-8078-9e911b45499a" />
 
 ## Бонусне2
